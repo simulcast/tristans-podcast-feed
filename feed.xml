@@ -10,7 +10,7 @@
       <description>This research paper introduces the Transformer, a novel neural network architecture for sequence transduction tasks like machine translation. Unlike previous models relying on recurrent or convolutional layers, the Transformer utilizes solely an attention mechanism, enabling greater parallelization and faster training. The authors demonstrate its superior performance on English-to-German and English-to-French translation tasks, achieving state-of-the-art results with significantly reduced training time. The paper details the Transformer's architecture, including multi-head self-attention and positional encoding, and analyzes the effects of various design choices. The improved efficiency and accuracy of the Transformer are highlighted through experimental results and comparisons with existing models.</description>
       <link>https://simulcast.github.io/tristans-podcast-feed/attention-is-all-you-need.mp3</link>
       <enclosure url="https://simulcast.github.io/tristans-podcast-feed/attention-is-all-you-need.mp3" length="3707949" type="audio/mpeg" />
-      <guid>https://simulcast.github.io/tristans-podcast-feed/attention-is-all-you-need.mp3</guid>
+      <guid>https://simulcast.github.io/tristans-podcast-feed/attention-is-all-you-need.mp3?v=1</guid>
       <pubDate>Mon, 30 Dec 2024 12:00:00 +0000</pubDate>
     </item>
   </channel>
